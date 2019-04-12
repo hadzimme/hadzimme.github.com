@@ -1,0 +1,8 @@
+title: Neighbor's Garden
+description: What you see is what you've heard.
+google_analytics: UA-57655576-1
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
