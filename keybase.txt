@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/hadzimme
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://hadzimme.github.io
+  * I am hadzimme (https://keybase.io/hadzimme) on keybase.
+  * I have a public key ASBdRb2YJYxHV3pPjq90nzyLwnqXD_dWSF7iENfzEgfShwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012069dd2ae7f23091ec47189121632d6d7c3b0587446ca1f6b5f08a3607be7982ae0a",
+      "host": "keybase.io",
+      "kid": "01205d45bd98258c47577a4f8eaf749f3c8bc27a970ff756485ee210d7f31207d2870a",
+      "uid": "6fe8f066298af8ab3b033cc710568b19",
+      "username": "hadzimme"
+    },
+    "merkle_root": {
+      "ctime": 1555512136,
+      "hash": "42fbda30fab7cf1fcf83e8ef261c7983d5089064383309b47910572ba6d43c870f4ea4d0f6a70021ba5f3f9391f09218ba24f9fd2d5ba3b82a0af6158ab75243",
+      "hash_meta": "0df8d779c59f73390fb54298238fc38decdb490fc660c82228a95ffda4a04245",
+      "seqno": 5191477
+    },
+    "service": {
+      "entropy": "rizp0Jc3TCXpKdQkklDq76DM",
+      "hostname": "hadzimme.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555512198,
+  "expire_in": 504576000,
+  "prev": "d5f25cc54ebf92bff5b7d1c94250eece5319ba40cf8f888db88d5fe398bb54c5",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXUW9mCWMR1d6T46vdJ88i8J6lw/3Vkhe4hDX8xIH0ocKp3BheWxvYWTESpcCHcQg1fJcxU6/kr/1t9HJQlDuzlMZukDPj4iNuI1f45i7VMXEIC3VYklh1VC7u9oVbPvksaJwjZgBTbM9WEDNaXal87e+AgHCo3NpZ8RAWPz6DxjzKdLvIekgaak10hVdHzRjDkh7ALRLbDZHc50V5rEY//VfOcNOeFWRPPmo1xoOSLWcwGFqNJhz5qB6BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIM3Y4jS3bh7JteIN2b59UWjszhOMBfOVac6IAzTP4CU0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hadzimme
+
+==================================================================
